@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "steamcloud-sg.s3.dualstack.ap-southeast-1.amazonaws.com",
+                "steamcloud-tyo.s3.dualstack.ap-northeast-1.amazonaws.com",
+                "steamcloud-eu-ams.storage.googleapis.com",
+                "steamcloud-eu-fra.storage.googleapis.com",
+                "steamcloud-finland.storage.googleapis.com",
+                "steamcloud-saopaulo.storage.googleapis.com",
+                "steamcloud-singapore.storage.googleapis.com",
+                "steamcloud-sydney.storage.googleapis.com",
+                "steamcloud-taiwan.storage.googleapis.com",
+                "steamcloud-ugc.storage.googleapis.com",
+                "steamcloud-eu.storage.googleapis.com",
+                "steamcloudams.blob.core.windows.net",
+                "steamcloudams2.blob.core.windows.net",
+                "steamclouddub.blob.core.windows.net",
+                "steamcloudfrankfurt.blob.core.windows.net",
+                "steamcloudlrsuswest.blob.core.windows.net",
+                "steamcloudsaopaulo.blob.core.windows.net",
+                "steamcloudsg.blob.core.windows.net",
+                "steamclouduseast.blob.core.windows.net",
+                "steamcloud-ugc.storage.googleapis.com",
+                ".steamcontent.com",
+                "steampipe.akamaized.net",
+                "steampipe-kr.akamaized.net",
+                "steampipe-partner.akamaized.net",
+                "steam.eca.qtlglb.com",
+                "steam.naeu.qtlglb.com",
+                "steam.ru.qtlglb.com",
+                "edge.steam-dns.top.comcast.net",
+                "upos-hz-mirrorakam.akamaized.net",
+                "steamusercontent-a.akamaihd.net",
+                "steambroadcast.akamaized.net"
+            ]
+        }
+    ]
+}
